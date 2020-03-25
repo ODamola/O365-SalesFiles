@@ -9,4 +9,10 @@ Yellow
 Purple
 White
 
-This is the end of the rainbow colors. (From Github)
+# This is the end of the rainbow colors. (From Github)
+
+Office 365 licenses:
+
+O365 Business
+O365 Business Premium
+O365 Business Essentials
