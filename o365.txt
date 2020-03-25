@@ -1,7 +1,10 @@
 Types of Rainbow colors:
+
 Orange
 Blue
 Green
+Pink
+Brown
 Yellow
 Purple
 
