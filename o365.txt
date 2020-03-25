@@ -1,0 +1,8 @@
+Types of Rainbow colors:
+Orange
+Blue
+Green
+Yellow
+Purple
+
+This is the end of the rainbow colors. (From Github)
