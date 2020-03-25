@@ -16,3 +16,9 @@ Office 365 licenses:
 O365 Business
 O365 Business Premium
 O365 Business Essentials
+
+# Office 365 Enterprise licenses
+
+O365 E1
+O365 E3
+O365 E5
