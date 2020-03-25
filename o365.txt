@@ -7,5 +7,6 @@ Pink
 Brown
 Yellow
 Purple
+White
 
 This is the end of the rainbow colors. (From Github)
