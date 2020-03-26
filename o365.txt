@@ -22,3 +22,12 @@ O365 Business Essentials
 O365 E1
 O365 E3
 O365 E5
+
+# Azure subscription
+
+Visual Studio Professional
+Visual Studio Test Professional
+Pay-As-You-Go Dev/Test
+MSDN
+Visual Studio Enterprise
+Bizmark
